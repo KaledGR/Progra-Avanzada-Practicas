@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace AP.Models.DTOs
 {
-    internal class UserDTO
+    public class UserDTO
     {
-        [JsonPropertyName("userID")]
-        public int? UserID { get; set; }
+        [JsonPropertyName("userId")]
+        public int? UserId { get; set; }
 
         [JsonPropertyName("username")]
         public string? Username { get; set; }
@@ -33,7 +33,7 @@ namespace AP.Models.DTOs
         [JsonPropertyName("modifiedBy")]
         public string? ModifiedBy { get; set; }
 
-        [JsonPropertyName("roleID")]
-        public int? RoleID { get; set; }
+        [JsonPropertyName("roleId")]
+        public int? RoleId { get; set; }
     }
 }

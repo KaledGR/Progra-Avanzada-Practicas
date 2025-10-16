@@ -9,8 +9,8 @@ namespace AP.Models.DTOs
 {
     public class SupplierDTO
     {
-        [JsonPropertyName("supplierID")]
-        public int? SupplierID { get; set; }
+        [JsonPropertyName("supplierId")]
+        public int? SupplierId { get; set; }
 
         [JsonPropertyName("supplierName")]
         public string? SupplierName { get; set; }

@@ -1,1 +1,8 @@
 C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator2\obj\Debug\net8.0\staticwebassets.build.json

@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AP.ServiceLocator\AP.ServiceLocator.csproj" />
+    <ProjectReference Include="..\AP.ServiceLocator2\AP.ServiceLocator2.csproj" />
   </ItemGroup>
 
 </Project>

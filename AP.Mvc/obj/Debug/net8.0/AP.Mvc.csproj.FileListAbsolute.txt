@@ -1,8 +1,3 @@
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.deps.json
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.runtimeconfig.json
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.staticwebassets.runtime.json
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.staticwebassets.endpoints.json
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.exe
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\appsettings.json
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Mvc.staticwebassets.runtime.json
@@ -12,8 +7,6 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Mvc.deps.json
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Mvc.runtimeconfig.json
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Mvc.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Mvc.pdb
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.dll
-C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\AP.Mvc.csproj.AssemblyReference.cache
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\AP.Mvc.GeneratedMSBuildEditorConfig.editorconfig
@@ -41,3 +34,18 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\refint\AP.Mvc.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\AP.Mvc.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\AP.Mvc.genruntimeconfig.cache
 C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\ref\AP.Mvc.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.deps.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.runtimeconfig.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.staticwebassets.endpoints.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.exe
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Architecture.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Models.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.ServiceLocator2.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Architecture.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\bin\Debug\net8.0\AP.Models.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Mvc\obj\Debug\net8.0\AP.Mvc.sourcelink.json

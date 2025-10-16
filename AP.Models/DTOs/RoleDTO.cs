@@ -9,8 +9,8 @@ namespace AP.Models.DTOs
 {
     public class RoleDTO
     {
-        [JsonPropertyName("roleID")]
-        public int? RoleID { get; set; }
+        [JsonPropertyName("roleId")]
+        public int? RoleId { get; set; }
 
         [JsonPropertyName("roleName")]
         public string? RoleName { get; set; }

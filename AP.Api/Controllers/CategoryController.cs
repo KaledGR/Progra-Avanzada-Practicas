@@ -14,5 +14,41 @@ namespace AP.Api.Controllers
         {
             return await categoryBusiness.GetCategory(id: null);
         }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] Category category)
+        {
+            var result = await categoryBusiness.CreateCategoryAsync(category);
+            if (result)
+                return Ok("Categoría guardada correctamente.");
+            return BadRequest("No se pudo guardar la categoría.");
+        }
+
+
+        //No pude hacerlo servir
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put( [FromBody] Category category)
+        {
+
+            var result = await categoryBusiness.UpdateCategoryAsync(category);
+            if (result)
+                return Ok("Categoría actualizada correctamente.");
+            return BadRequest("No se pudo actualizar la categoría.");
+        }
+
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await categoryBusiness.DeleteCategoryAsync(id);
+            if (result)
+                return Ok("Categoría eliminada correctamente.");
+            return NotFound("No se encontró la categoría para eliminar.");
+        }
+
+
+
     }
 }

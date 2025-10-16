@@ -5,6 +5,14 @@
       {
         "Path": "AP.Api\\AP.Api.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "AP.ServiceLocator2\\AP.ServiceLocator2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AP.Mvc\\AP.Mvc.csproj",
+        "Action": "Start"
       }
     ]
   }

@@ -13,6 +13,8 @@ namespace AP.Core.BusinessLogic
         Task<IEnumerable<Category>> GetCategory(int? id);
         Task<bool> SaveCategoryAsync(Category category);
         Task<bool> DeleteCategoryAsync(int id);
+        Task<bool> CreateCategoryAsync(Category category);
+        Task<bool> UpdateCategoryAsync(Category category);
     }
 
     public class CategoryBusiness(IRepositoryCategory repositoryCategory) : ICategoryBusiness
@@ -24,10 +26,28 @@ namespace AP.Core.BusinessLogic
                 : [await repositoryCategory.FindAsync((int)id)];
         }
 
+        public async Task<bool> CreateCategoryAsync(Category category)
+        {
+            
+            return await repositoryCategory.CreateAsync(category);
+        }
+
+        public async Task<bool> UpdateCategoryAsync(Category category)
+        {
+            
+
+            var exists = await repositoryCategory.ExistsAsync(category);
+            if (!exists)
+                return false;
+
+            return await repositoryCategory.UpdateAsync(category);
+        }
+
+
         public async Task<bool> SaveCategoryAsync(Category category)
         {
             
-            category.LastModified = DateTime.Now;
+            
             return await repositoryCategory.UpdateAsync(category);
         }
 

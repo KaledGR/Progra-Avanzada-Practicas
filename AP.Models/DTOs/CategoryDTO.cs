@@ -9,8 +9,8 @@ namespace AP.Models.DTOs
 {
     public class CategoryDTO
     {
-        [JsonPropertyName("categoryID")]
-        public int? CategoryID { get; set; }
+        [JsonPropertyName("categoryId")]
+        public int? CategoryId { get; set; }
 
         [JsonPropertyName("categoryName")]
         public string? CategoryName { get; set; }

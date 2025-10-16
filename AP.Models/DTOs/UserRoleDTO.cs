@@ -12,10 +12,10 @@ namespace AP.Models.DTOs
         [JsonPropertyName("id")]
         public decimal? Id { get; set; }
 
-        [JsonPropertyName("roleID")]
+        [JsonPropertyName("roleId")]
         public decimal? RoleID { get; set; }
 
-        [JsonPropertyName("userID")]
+        [JsonPropertyName("userId")]
         public decimal? UserID { get; set; }
     }
 }

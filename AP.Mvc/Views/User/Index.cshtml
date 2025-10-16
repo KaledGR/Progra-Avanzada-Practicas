@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model UserViewModel
+
+<table class="table table-striped table-hover table-bordered align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">UserID</th>
+            <th scope="col">Username</th>
+            <th scope="col">Email</th>
+            <th scope="col">PasswordHash</th>
+            <th scope="col">CreatedAt</th>
+            <th scope="col">IsActive</th>
+            <th scope="col">LastModified</th>
+            <th scope="col">ModifiedBy</th>
+            <th scope="col">RoleID</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.User)
+        {
+            <tr>
+                <td>@item.UserId</td>
+                <td>@item.Username</td>
+                <td>@item.Email</td>
+                <td>@item.PasswordHash</td>
+                <td>@item.CreatedAt</td>
+                <td>@item.IsActive</td>
+                <td>@item.LastModified</td>
+                <td>@item.ModifiedBy</td>
+                <td>@item.RoleId</td>
+            </tr>
+        }
+    </tbody>
+</table>

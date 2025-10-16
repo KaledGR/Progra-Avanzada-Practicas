@@ -14,5 +14,40 @@ namespace AP.Api.Controllers
         {
             return await inventoryBusiness.GetInventory(id: null);
         }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] Inventory inventory)
+        {
+            var result = await inventoryBusiness.SaveInventoryAsync(inventory);
+            if (result)
+                return Ok("Inventorio guardado correctamente.");
+            return BadRequest("No se pudo guardar la categoría.");
+        }
+
+
+        //No pude hacerlo servir
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put([FromBody] Inventory inventory)
+        {
+
+            var result = await inventoryBusiness.SaveInventoryAsync(inventory);
+            if (result)
+                return Ok("Inventario actualizado correctamente.");
+            return BadRequest("No se pudo actualizar el inventario.");
+        }
+
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = await inventoryBusiness.DeleteInventoryAsync(id);
+            if (result)
+                return Ok("Inventario eliminado correctamente.");
+            return NotFound("No se encontro el inventario para eliminar.");
+        }
+
+
     }
 }

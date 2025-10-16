@@ -9,3 +9,4 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\refint\AP.Models.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\ref\AP.Models.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.sourcelink.json

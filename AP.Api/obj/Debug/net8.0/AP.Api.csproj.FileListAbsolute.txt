@@ -91,3 +91,4 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Api\obj\Debug\net8.0\refint\AP.Api.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Api\obj\Debug\net8.0\AP.Api.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Api\obj\Debug\net8.0\AP.Api.genruntimeconfig.cache
 C:\Users\Kaled\source\repos\PracticaN2\AP.Api\obj\Debug\net8.0\ref\AP.Api.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Api\obj\Debug\net8.0\AP.Api.sourcelink.json
