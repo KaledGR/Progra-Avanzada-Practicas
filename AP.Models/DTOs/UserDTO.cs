@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+namespace AP.Models.DTOs
+{
+    internal class UserDTO
+    {
+        [JsonPropertyName("userID")]
+        public int? UserID { get; set; }
+
+        [JsonPropertyName("username")]
+        public string? Username { get; set; }
+
+        [JsonPropertyName("email")]
+        public string? Email { get; set; }
+
+        [JsonPropertyName("passwordHash")]
+        public string? PasswordHash { get; set; }
+
+        [JsonPropertyName("createdAt")]
+        public DateTime? CreatedAt { get; set; }
+
+        [JsonPropertyName("isActive")]
+        public bool? IsActive { get; set; }
+
+        [JsonPropertyName("lastModified")]
+        public DateTime? LastModified { get; set; }
+
+        [JsonPropertyName("modifiedBy")]
+        public string? ModifiedBy { get; set; }
+
+        [JsonPropertyName("roleID")]
+        public int? RoleID { get; set; }
+    }
+}

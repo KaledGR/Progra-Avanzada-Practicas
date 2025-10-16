@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\taskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\taskbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\inventorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\inventorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC0A7D-BC5D-43D2-A5CA-D925ECE9804D}|AP.Api\\AP.Api.csproj|solutionrelative:ap.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\inventorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\inventorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\componentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\componentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\categorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\categorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\supplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\supplierbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\notificationbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\notificationbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\rolebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\rolebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\businesslogic\\productbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\businesslogic\\productbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.core\\ap.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5538BD8-4FD3-4620-8781-3959CE02CCF9}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\ap.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\ap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\ap.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\ap.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\ap.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorysupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorysupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositoryrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositoryrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorynotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorynotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositoryinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositoryinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\repositorycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\repositorycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\useractiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\useractiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\iventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\iventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\componentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\componentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "AP.Data\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAQwJkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:08:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComponentBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ComponentBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\ComponentBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ComponentBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\ComponentBusiness.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:46:27.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\TaskBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\TaskBusiness.cs*",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\TaskBusiness.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:10:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryTask.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryTask.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryTask.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryTask.cs*",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryTask.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:58:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:41:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Task.cs",
+              "RelativeToolTip": "AP.Data\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:41:45.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Product.cs",
+              "RelativeToolTip": "AP.Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:11:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Program.cs",
+              "RelativeToolTip": "AP.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:59:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ComponentController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\ComponentController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ComponentController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\ComponentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:41:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:40:49.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:40:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:40:27.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventorController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\InventorController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\InventorController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\InventorController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\InventorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:40:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AP.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AP.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:39:57.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\NotificationBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\NotificationBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\NotificationBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\NotificationBusiness.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:07:35.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\RoleBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\RoleBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\RoleBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\RoleBusiness.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:07:16.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\UserBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\UserBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\UserBusiness.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA8wCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:06:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\InventoryBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\InventoryBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\InventoryBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\InventoryBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:06:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupplierBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\SupplierBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\SupplierBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\SupplierBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\SupplierBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:06:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ProductBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\ProductBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ProductBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\ProductBusiness.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:05:15.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AP.Core",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\AP.Core.csproj",
+              "RelativeDocumentMoniker": "AP.Core\\AP.Core.csproj",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\AP.Core.csproj",
+              "RelativeToolTip": "AP.Core\\AP.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T23:00:01.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\CategoryBusiness.cs",
+              "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\CategoryBusiness.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\CategoryBusiness.cs",
+              "RelativeToolTip": "AP.Core\\BusinessLogic\\CategoryBusiness.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T23:04:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AP.Data",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\AP.Data.csproj",
+              "RelativeDocumentMoniker": "AP.Data\\AP.Data.csproj",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\AP.Data.csproj",
+              "RelativeToolTip": "AP.Data\\AP.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T22:59:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AP.Models",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\AP.Models.csproj",
+              "RelativeDocumentMoniker": "AP.Models\\AP.Models.csproj",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\AP.Models.csproj",
+              "RelativeToolTip": "AP.Models\\AP.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T22:59:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryUser.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryUser.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryUser.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryUser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:59:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RepositorySupplier.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositorySupplier.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositorySupplier.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositorySupplier.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositorySupplier.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:58:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositoryRole.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryRole.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryRole.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryRole.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryRole.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:58:00.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositoryProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryProduct.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryProduct.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryProduct.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryProduct.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:57:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RepositoryNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryNotification.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryNotification.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryNotification.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryNotification.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:57:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RepositoryInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryInventory.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryInventory.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryInventory.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryInventory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:55:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RepositoryComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryComponent.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryComponent.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryComponent.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryComponent.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:53:41.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RepositoryCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryCategory.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryCategory.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryCategory.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryCategory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:51:37.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:31:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserRoleDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserRoleDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserRoleDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\UserRoleDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:31:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserActionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserActionDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserActionDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserActionDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\UserActionDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:30:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\TaskDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:29:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\SupplierDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\SupplierDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\SupplierDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\SupplierDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:29:32.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:29:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:28:27.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NotificationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\NotificationDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\NotificationDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\NotificationDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\NotificationDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:28:04.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IventoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\IventoryDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\IventoryDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\IventoryDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\IventoryDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:27:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ComponentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ComponentDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\ComponentDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ComponentDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\ComponentDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:27:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:26:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:24:18.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

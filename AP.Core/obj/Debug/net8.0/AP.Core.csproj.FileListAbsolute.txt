@@ -1,0 +1,15 @@
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\bin\Debug\net8.0\AP.Core.deps.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\bin\Debug\net8.0\AP.Core.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\bin\Debug\net8.0\AP.Core.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\bin\Debug\net8.0\AP.Data.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\bin\Debug\net8.0\AP.Data.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.csproj.AssemblyReference.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.AssemblyInfoInputs.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.AssemblyInfo.cs
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.csproj.Up2Date
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\refint\AP.Core.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\ref\AP.Core.dll

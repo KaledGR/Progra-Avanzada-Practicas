@@ -1,0 +1,11 @@
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\bin\Debug\net8.0\AP.Architecture.deps.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\bin\Debug\net8.0\AP.Architecture.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\bin\Debug\net8.0\AP.Architecture.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.AssemblyInfoInputs.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.AssemblyInfo.cs
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\refint\AP.Architecture.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\AP.Architecture.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Architecture\obj\Debug\net8.0\ref\AP.Architecture.dll

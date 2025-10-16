@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AP.Architecture/1.0.0": {
+        "runtime": {
+          "AP.Architecture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

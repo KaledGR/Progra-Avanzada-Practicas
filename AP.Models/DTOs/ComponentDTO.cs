@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+namespace AP.Models.DTOs
+{
+    public class ComponentDTO
+    {
+
+        [JsonPropertyName("id")]
+        public decimal? ID { get; set; }
+
+        [JsonPropertyName("name")]
+        public string? Name { get; set; }
+
+        [JsonPropertyName("content")]
+        public string? Content { get; set; }
+    }
+}

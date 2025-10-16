@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AP.Mvc/1.0.0": {
+        "dependencies": {
+          "AP.ServiceLocator": "1.0.0"
+        },
+        "runtime": {
+          "AP.Mvc.dll": {}
+        }
+      },
+      "AP.ServiceLocator/1.0.0": {
+        "runtime": {
+          "AP.ServiceLocator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP.Mvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AP.ServiceLocator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

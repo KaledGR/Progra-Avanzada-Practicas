@@ -1,0 +1,42 @@
+using AP.Core.BusinessLogic;
+using AP.Data.Repositories;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<ICategoryBusiness, CategoryBusiness>();
+builder.Services.AddScoped<IRepositoryCategory, RepositoryCategory>();
+builder.Services.AddScoped<IComponentBusiness, ComponentBusiness>();
+builder.Services.AddScoped<IRepositoryComponent, RepositoryComponent>();
+builder.Services.AddScoped<IInventoryBusiness, InventoryBusiness>();
+builder.Services.AddScoped<IRepositoryInventory, RepositoryInventory>();
+builder.Services.AddScoped<IProductBusiness, ProductBusiness>();
+builder.Services.AddScoped<IRepositoryProduct, RepositoryProduct>();
+builder.Services.AddScoped<IRoleBusiness, RoleBusiness>();
+builder.Services.AddScoped<IRepositoryRole, RepositoryRole>();
+builder.Services.AddScoped<ITaskBusiness, TaskBusiness>();
+builder.Services.AddScoped<IRepositoryTask, RepositoryTask>();
+builder.Services.AddScoped<IUserBusiness, UserBusiness>();
+builder.Services.AddScoped<IRepositoryUser, RepositoryUser>();
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
