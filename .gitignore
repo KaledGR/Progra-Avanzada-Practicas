@@ -1,0 +1,48 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de caché y temporales
+*.cache
+*.db
+*.log
+*.vsidx
+*.v11.suo
+*.v12.suo
+*.v13.suo
+*.v17.suo
+*.dtbcache.v2
+*.futdcache.v2
+*.sdf
+*.opensdf
+*.pdb
+*.ipch
+
+# Archivos de configuración local
+*.local.json
+*.ApplicationInsights.config
+
+# Archivos de paquetes
+packages/
+*.nupkg
+
+# Archivos de configuración de usuario
+*.csproj.user
+
+# Archivos de evaluación de proyecto
+ProjectEvaluation/
+
+# Archivos de configuración de IIS Express
+applicationhost.config
+
+# Otros
+TestResult*/
+*.coverage
+*.coveragexml
