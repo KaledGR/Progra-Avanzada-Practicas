@@ -13,3 +13,4 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\refint\AP.Core.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\ref\AP.Core.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Core\obj\Debug\net8.0\AP.Core.sourcelink.json

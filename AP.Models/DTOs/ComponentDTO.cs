@@ -11,7 +11,7 @@ namespace AP.Models.DTOs
     {
 
         [JsonPropertyName("id")]
-        public decimal? ID { get; set; }
+        public decimal? Id { get; set; }
 
         [JsonPropertyName("name")]
         public string? Name { get; set; }

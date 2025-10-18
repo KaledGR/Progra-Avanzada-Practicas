@@ -9,3 +9,8 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\refint\AP.Models.dll
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\ref\AP.Models.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.csproj.AssemblyReference.cache
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.sourcelink.json
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\bin\Debug\net8.0\AP.Data.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\bin\Debug\net8.0\AP.Data.pdb
+C:\Users\Kaled\source\repos\PracticaN2\AP.Models\obj\Debug\net8.0\AP.Models.csproj.Up2Date

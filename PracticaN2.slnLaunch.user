@@ -3,7 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "AP.Api\\AP.Api.csproj",
+        "Path": "AP.MinimalApi\\AP.MinimalApi.csproj",
         "Action": "Start"
       }
     ]

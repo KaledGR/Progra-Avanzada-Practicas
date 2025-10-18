@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AP.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +10,8 @@ namespace AP.Models.DTOs
 {
     public class CategoryDTO
     {
-        [JsonPropertyName("categoryID")]
-        public int? CategoryID { get; set; }
+        [JsonPropertyName("categoryId")]
+        public int? CategoryId { get; set; }
 
         [JsonPropertyName("categoryName")]
         public string? CategoryName { get; set; }
@@ -23,5 +24,25 @@ namespace AP.Models.DTOs
 
         [JsonPropertyName("modifiedBy")]
         public string? ModifiedBy { get; set; }
+
+
+        [JsonPropertyName("products")]
+        public List<ProductDTO>? Products { get; set; }
+
+
+        public CategoryDTO() { }
+
+        public CategoryDTO(Category category)
+        {
+            CategoryId = category.CategoryId;
+            CategoryName = category.CategoryName;
+            Description = category.Description;
+            LastModified = category.LastModified;
+            ModifiedBy = category.ModifiedBy;
+
+            //Aqui hace la consulta de los productos relacionados a la categoria (Lazy Loading)
+            Products = category.Products?.Select(p => new ProductDTO(p)).ToList();
+        }
+
     }
 }

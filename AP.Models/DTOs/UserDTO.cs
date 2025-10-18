@@ -9,8 +9,8 @@ namespace AP.Models.DTOs
 {
     internal class UserDTO
     {
-        [JsonPropertyName("userID")]
-        public int? UserID { get; set; }
+        [JsonPropertyName("userId")]
+        public int? UserId { get; set; }
 
         [JsonPropertyName("username")]
         public string? Username { get; set; }

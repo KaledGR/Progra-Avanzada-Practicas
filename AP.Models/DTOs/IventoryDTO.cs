@@ -10,8 +10,8 @@ namespace AP.Models.DTOs
     public class IventoryDTO
     {
 
-        [JsonPropertyName("inventoryID")]
-        public int? InventoryID { get; set; }
+        [JsonPropertyName("inventoryId")]
+        public int? InventoryId { get; set; }
 
         [JsonPropertyName("unitPrice")]
         public decimal? UnitPrice { get; set; }
