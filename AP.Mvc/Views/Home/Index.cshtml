@@ -1,6 +1,39 @@
-﻿@{
+﻿@using AP.Data.Models
+@{
     ViewData["Title"] = "Home Page";
 }
+
+
+@model IEnumerable<Product>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Rating</th>
+            <th>Última modificación</th>
+            <th>Modificado por</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.Description</td>
+                <td>@product.Rating</td>
+                <td>@product.LastModified?.ToString("dd/MM/yyyy")</td>
+                <td>@product.ModifiedBy</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>

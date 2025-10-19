@@ -12,3 +12,4 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.Data\obj\Debug\net8.0\refint\AP.Data.d
 C:\Users\Kaled\source\repos\PracticaN2\AP.Data\obj\Debug\net8.0\AP.Data.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.Data\obj\Debug\net8.0\AP.Data.genruntimeconfig.cache
 C:\Users\Kaled\source\repos\PracticaN2\AP.Data\obj\Debug\net8.0\ref\AP.Data.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.Data\obj\Debug\net8.0\AP.Data.sourcelink.json

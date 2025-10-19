@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.ServiceLocator", "AP.Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.MinimalApi", "AP.MinimalApi\AP.MinimalApi.csproj", "{702A6253-1021-4854-A2D5-B36FF180523C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mcv.Service", "Mcv.Service\Mcv.Service.csproj", "{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{702A6253-1021-4854-A2D5-B36FF180523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{702A6253-1021-4854-A2D5-B36FF180523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{702A6253-1021-4854-A2D5-B36FF180523C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

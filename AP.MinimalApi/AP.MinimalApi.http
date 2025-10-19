@@ -8,3 +8,104 @@
 ###
 
 ###
+
+GET {{AP.MinimalApi_HostAddress}}/categoryItems
+
+###
+
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/categoryItems
+{
+  "categoryName": "Prueba",
+  "description": "PRUEBAS"
+}
+
+###
+
+
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/categoryItems
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/categoryItems
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/categoryItems
+Content-Type: application/json
+
+{
+  "categoryName": "Prueba",
+  "description": "PRUEBAS",
+  "modifiedBy": "admin"
+}
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/categoryItems
+
+###
+@id=17
+DELETE {{AP.MinimalApi_HostAddress}}/categoryItems/17
+
+###
+
+PUT {{AP.MinimalApi_HostAddress}}/categoryItems/18
+Content-Type: application/json
+{
+  "categoryName": "PruebaModificado",
+  "description": "PruebaModificado",
+  "modifiedBy": "admin"
+}
+###
+
+GET {{AP.MinimalApi_HostAddress}}/categoryItems/18
+
+###
+
+GET {{AP.MinimalApi_HostAddress}}/productsItems
+
+###
+
+POST {{AP.MinimalApi_HostAddress}}/productsItems
+Content-Type: application/json
+{
+    
+    "productName": "Prueba",
+    "inventoryId": 2,
+    "supplierId": 2,
+    "description": "Prueba",
+    "rating": 4.30,
+    "categoryId": 1,
+    "lastModified": "2025-02-12T20:45:12",
+    "modifiedBy": "System"
+  }
+###
+
+GET {{AP.MinimalApi_HostAddress}}/productsItems/14
+
+###
+
+PUT {{AP.MinimalApi_HostAddress}}/productsItems/14
+Content-Type: application/json
+{
+    
+    "productName": "PruebaModificado",
+    "inventoryId": 2,
+    "supplierId": 2,
+    "description": "PruebaModificado",
+    "rating": 4.30,
+    "categoryId": 1,
+    "lastModified": "2025-02-12T20:45:12",
+    "modifiedBy": "System"
+  }
+###
+
+DELETE {{AP.MinimalApi_HostAddress}}/productsItems/14
+
+###

@@ -1,29 +1,24 @@
-using AP.Core.BusinessLogic;
+
 using AP.Data.Models;
-using AP.Data.Repositories;
 using AP.Models.DTOs;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Se agrega el uso de lazy Loading Virtual Proxy, que es una de las formas para implementar la carga diferida de datos, este se menciona en
-// en el catalogo de patrones de diseño, este UseLazyLoadingProxies se agrega en el contexto de la base de datos y para su uso se debe de instalar el nugget
-// Microsoft.EntityFrameworkCore.Proxies , pero el verdadero uso de este patron se hace en la clase CategoryDTO en models en la propiedad Products donde se hace uso de
-// virtual para que funcione el lazy loading.
-//Porque se escogio este patron:
-//Este ayuda a mejorar el rendimiento de la aplicacion y optimizar los recursos, porque este lo que hace es cargar los datos solo cuando estos realmente se necesitan
-//en lugar de tener que tenerlo todo guardado desde el inicio, lo que nos da la ventaja de que no tenemos que manejar tanta informacion en nuestro entorno . Este se puede notar de mejor manera si
-//se piensa en u entorno donde se generen consultas muy pesadas, este patron distribuye estas consultas de una manera mas eficiente, haciendo asi que el sistema sea mas rapido
-//y responda mejor ante grandes volumenes de informacion. Pero es muy importante tener en cuenta cuando conviene hacer uso del lazy loading y cuando no, ya que en algunos casos
-//puede llegar a generar consultas innecesarias.
+// Patrón de diseño: Lazy Loading Virtual Proxy
+// Motivo de elección: Este patrón ayuda a mejorar el rendimiento de la aplicación y optimizar recursos.
+// Justificación técnica: Se implementa en el contexto de base de datos usando UseLazyLoadingProxies, y requiere instalar el paquete NuGet Microsoft.EntityFrameworkCore.Proxies.
+// El verdadero uso se hace en la clase CategoryDTO (en Models), en la propiedad Products, donde se usa 'virtual' para habilitar la carga diferida.
+// Este patrón permite cargar los datos solo cuando realmente se necesitan, lo que mejora el rendimiento en entornos con consultas pesadas.
+// Sin embargo, es importante evaluar cuándo conviene usarlo, ya que en algunos casos puede generar consultas innecesarias.
 
 builder.Services.AddDbContext<ProductDbContext>(options =>
     options
     .UseLazyLoadingProxies(true)
     .UseSqlServer("Server=DESKTOP-PE6BDTN;Database=ProductDB;Trusted_Connection=True;TrustServerCertificate=True;"));
 
-
+builder.Services.AddEndpointsApiExplorer();
 
 
 
@@ -179,7 +174,7 @@ static async Task<IResult> DeleteCategory(int id, ProductDbContext db)
     {
         db.Categories.Remove(category);
         await db.SaveChangesAsync();
-        return TypedResults.NoContent();
+        return TypedResults.Ok();
     }
 
     return TypedResults.NotFound();

@@ -31,3 +31,4 @@ C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\refint
 C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\AP.ServiceLocator.pdb
 C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\AP.ServiceLocator.genruntimeconfig.cache
 C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\ref\AP.ServiceLocator.dll
+C:\Users\Kaled\source\repos\PracticaN2\AP.ServiceLocator\obj\Debug\net8.0\AP.ServiceLocator.sourcelink.json
