@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.mvc\\controllers\\repositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|solutionrelative:ap.mvc\\controllers\\repositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{702A6253-1021-4854-A2D5-B36FF180523C}|AP.MinimalApi\\AP.MinimalApi.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{702A6253-1021-4854-A2D5-B36FF180523C}|AP.MinimalApi\\AP.MinimalApi.csproj|solutionrelative:ap.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B77DB51-84E4-4DFD-B240-DA46676DEB5B}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702A6253-1021-4854-A2D5-B36FF180523C}|AP.MinimalApi\\AP.MinimalApi.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.minimalapi\\ap.minimalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{702A6253-1021-4854-A2D5-B36FF180523C}|AP.MinimalApi\\AP.MinimalApi.csproj|solutionrelative:ap.minimalapi\\ap.minimalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.mvc\\views\\repository\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|solutionrelative:ap.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.mvc\\controllers\\repositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|solutionrelative:ap.mvc\\controllers\\repositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|solutionrelative:ap.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23EB9FC4-4A9C-4895-B433-791A6250E139}|AP.Mvc\\AP.Mvc.csproj|solutionrelative:ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|c:\\users\\kaled\\source\\repos\\practican2\\ap.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6C769E-217E-4C78-B2F2-C2475467CEB5}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0539554-E964-4F6E-ACEC-8A2E69B3CB72}|Mcv.Service\\Mcv.Service.csproj|c:\\users\\kaled\\source\\repos\\practican2\\mcv.service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -234,50 +230,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AP.MinimalApi.http",
-              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.MinimalApi\\AP.MinimalApi.http",
-              "RelativeDocumentMoniker": "AP.MinimalApi\\AP.MinimalApi.http",
-              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.MinimalApi\\AP.MinimalApi.http*",
-              "RelativeToolTip": "AP.MinimalApi\\AP.MinimalApi.http*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-17T22:57:33.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.MinimalApi\\Program.cs",
               "RelativeDocumentMoniker": "AP.MinimalApi\\Program.cs",
               "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.MinimalApi\\Program.cs*",
               "RelativeToolTip": "AP.MinimalApi\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwLAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T19:49:06.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "AP.Models\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "AP.Models\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA0wDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T02:16:44.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Mvc\\Views\\Repository\\Index.cshtml",
               "RelativeDocumentMoniker": "AP.Mvc\\Views\\Repository\\Index.cshtml",
@@ -290,20 +260,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RepositoryController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Mvc\\Controllers\\RepositoryController.cs",
               "RelativeDocumentMoniker": "AP.Mvc\\Controllers\\RepositoryController.cs",
               "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Mvc\\Controllers\\RepositoryController.cs",
               "RelativeToolTip": "AP.Mvc\\Controllers\\RepositoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T01:31:42.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Mvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AP.Mvc\\Views\\Shared\\_Layout.cshtml",
@@ -316,20 +286,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "AP.Data\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\IProductRepository.cs*",
+              "RelativeToolTip": "AP.Data\\Repositories\\IProductRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAACyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T00:53:23.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "AP.Models\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "AP.Models\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:16:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\Mcv.Service\\IProductService.cs",
               "RelativeDocumentMoniker": "Mcv.Service\\IProductService.cs",
@@ -368,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "AP.Data\\Models\\ProductDbContext.cs",
@@ -381,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Mvc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AP.Mvc\\Views\\Home\\Index.cshtml",
@@ -394,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "AP.Models.csproj",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\AP.Models.csproj",
               "RelativeDocumentMoniker": "AP.Models\\AP.Models.csproj",
@@ -407,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AP.Data\\Models\\Product.cs",
@@ -420,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "AP.Api",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\AP.Api.csproj",
               "RelativeDocumentMoniker": "AP.Api\\AP.Api.csproj",
@@ -432,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\ProductController.cs",
@@ -445,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Program.cs",
               "RelativeDocumentMoniker": "AP.Api\\Program.cs",
@@ -458,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\RoleController.cs",
@@ -471,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\ProductDTO.cs",
@@ -484,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryBase.cs",
@@ -497,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "RepositoryProduct.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryProduct.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryProduct.cs",
@@ -510,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Category.cs",
               "RelativeDocumentMoniker": "AP.Data\\Models\\Category.cs",
@@ -522,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "RoleDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\RoleDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\RoleDTO.cs",
@@ -534,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "AP.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\AP.Data.csproj",
               "RelativeDocumentMoniker": "AP.Data\\AP.Data.csproj",
@@ -546,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "ProductBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ProductBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\ProductBusiness.cs",
@@ -558,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "CategoryBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\CategoryBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\CategoryBusiness.cs",
@@ -570,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "InventorController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\InventorController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\InventorController.cs",
@@ -582,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\CategoryController.cs",
@@ -594,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "UserRoleDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserRoleDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserRoleDTO.cs",
@@ -606,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserDTO.cs",
@@ -618,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "TaskDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\TaskDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\TaskDTO.cs",
@@ -630,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "SupplierDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\SupplierDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\SupplierDTO.cs",
@@ -642,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "NotificationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\NotificationDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\NotificationDTO.cs",
@@ -654,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "IventoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\IventoryDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\IventoryDTO.cs",
@@ -666,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Models\\Task.cs",
               "RelativeDocumentMoniker": "AP.Data\\Models\\Task.cs",
@@ -678,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ComponentDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\ComponentDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\ComponentDTO.cs",
@@ -690,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "UserActionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Models\\DTOs\\UserActionDTO.cs",
               "RelativeDocumentMoniker": "AP.Models\\DTOs\\UserActionDTO.cs",
@@ -702,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\UserController.cs",
@@ -714,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\TaskController.cs",
@@ -726,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "ComponentController.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Api\\Controllers\\ComponentController.cs",
               "RelativeDocumentMoniker": "AP.Api\\Controllers\\ComponentController.cs",
@@ -738,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "ComponentBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\ComponentBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\ComponentBusiness.cs",
@@ -750,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "InventoryBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\InventoryBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\InventoryBusiness.cs",
@@ -762,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "RepositoryCategory.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryCategory.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryCategory.cs",
@@ -774,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "RepositoryTask.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryTask.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryTask.cs",
@@ -786,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "TaskBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\TaskBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\TaskBusiness.cs",
@@ -798,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "NotificationBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\NotificationBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\NotificationBusiness.cs",
@@ -810,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "RoleBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\RoleBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\RoleBusiness.cs",
@@ -822,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "UserBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\UserBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\UserBusiness.cs",
@@ -834,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "SupplierBusiness.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\BusinessLogic\\SupplierBusiness.cs",
               "RelativeDocumentMoniker": "AP.Core\\BusinessLogic\\SupplierBusiness.cs",
@@ -846,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "AP.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Core\\AP.Core.csproj",
               "RelativeDocumentMoniker": "AP.Core\\AP.Core.csproj",
@@ -858,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "RepositoryUser.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryUser.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryUser.cs",
@@ -870,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "RepositorySupplier.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositorySupplier.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositorySupplier.cs",
@@ -882,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "RepositoryRole.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryRole.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryRole.cs",
@@ -894,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "RepositoryNotification.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryNotification.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryNotification.cs",
@@ -906,7 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "RepositoryInventory.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryInventory.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryInventory.cs",
@@ -918,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "RepositoryComponent.cs",
               "DocumentMoniker": "C:\\Users\\Kaled\\source\\repos\\PracticaN2\\AP.Data\\Repositories\\RepositoryComponent.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\RepositoryComponent.cs",

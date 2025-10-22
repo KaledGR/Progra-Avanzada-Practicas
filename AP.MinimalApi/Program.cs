@@ -165,7 +165,7 @@ static async Task<IResult> UpdateCategory(int id, CategoryDTO categoryDTO, Produ
 
     await db.SaveChangesAsync();
 
-    return TypedResults.NoContent();
+    return TypedResults.Ok();
 }
 
 static async Task<IResult> DeleteCategory(int id, ProductDbContext db)

@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace AP.Data.Repositories
 {
+    //Patrón de diseño: Repository Pattern
+    //Motivo de eleccion: Esta patron se implementa para poder dar una interfaz mas limpia y organizada a la hora de interactuar con las fuentes de datos.
+    //Justificacion tecnica: Con este patron hacemos que el acceso de los datos sea mas sencillo y mantenible, ya que encapsulamos la logica de
+    //acceso a datos en una capa separada. Ademas esto faciliita la implementacion de los metodos y no tenemos que tener toda esta logica dentro del controller
+    //lo que hace mas limpio el codigo, el problema se causa cuando toca hacer cambios en esta logica de acceso a datos, lo que poroduce que se tenga que reescribir mucho codigo.
+
+
     public interface IProductRepository
     {
 
@@ -15,7 +22,6 @@ namespace AP.Data.Repositories
         void InsertProduct(Product product);
         void UpdateProduct(Product product);
         void DeleteProduct(int id);
-
         void save();
 
     }
